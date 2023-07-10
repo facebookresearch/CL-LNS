@@ -1,0 +1,11 @@
+dgl
+ecole=0.7.3
+flake8
+numpy=1.20
+pyscipopt
+pytest
+python=3.8
+pytorch=1.7.0
+scip=7.0.3
+tensorboard
+tensorboardx

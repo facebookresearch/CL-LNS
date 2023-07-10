@@ -1,0 +1,10 @@
+cudatoolkit=11.0.221
+dgl-cuda11.0
+flake8
+pyscipopt
+pytest
+python=3.8
+pytorch=1.7.0
+scip=8.0.1
+tensorboard
+tensorboardx
